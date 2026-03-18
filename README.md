@@ -48,12 +48,12 @@ Visualize your project's logic, track changes, and search with AI.
 
 ## What It Does
 
-Claude Watch **auto-discovers** every logic file in your project — system prompts, voice guides, rules, configs, playbooks — and shows them as an **interactive visual map**.
+Claude Watch **auto-discovers** every logic file in your project (system prompts, voice guides, rules, configs, playbooks) and shows them as an **interactive visual map**.
 
-- **Bubble Graph** — your project's brain as a zoomable map. Click to explore.
-- **AI Search** — ask natural language questions across all your logic files.
-- **Live Changes** — see what Claude Code is doing in real time.
-- **Snapshots** — save and restore project state.
+- **Bubble Graph**: your project's brain as a zoomable map. Click to explore.
+- **AI Search**: ask natural language questions across all your logic files.
+- **Live Changes**: see what Claude Code is doing in real time.
+- **Snapshots**: save and restore project state.
 
 ## Quick Start
 
