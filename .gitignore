@@ -7,3 +7,9 @@ dashboard/tsconfig.tsbuildinfo
 .env
 .DS_Store
 .claude/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+.cache/
