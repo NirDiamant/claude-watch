@@ -1,0 +1,28 @@
+# Claude Watch
+
+> An open-source, real-time observability dashboard for Claude Code. It reads what happens inside an AI-assisted coding session and renders it: the project's logic, what changed, and an AI-assisted search across session history. Runs entirely locally as a CLI (`claude-watch`) that starts a server and serves a web dashboard. Built in TypeScript with tsup for the server and Vite plus Tailwind for the front end. Session data never leaves the machine. Authored by Nir Diamant.
+
+## Core Documents
+
+- [README](https://github.com/NirDiamant/claude-watch/blob/main/README.md): What it shows, installation and usage.
+- [AGENTS](https://github.com/NirDiamant/claude-watch/blob/main/AGENTS.md): Repository conventions for AI coding agents.
+- [package.json](https://github.com/NirDiamant/claude-watch/blob/main/package.json): Scripts, binary name and dependencies.
+
+## Source
+
+- [src/cli.ts](https://github.com/NirDiamant/claude-watch/blob/main/src/cli.ts): CLI entry point.
+- [src/server](https://github.com/NirDiamant/claude-watch/tree/main/src/server): The local server that ingests and serves session data.
+- [src/services](https://github.com/NirDiamant/claude-watch/tree/main/src/services): Session parsing, indexing and search.
+- [src/types.ts](https://github.com/NirDiamant/claude-watch/blob/main/src/types.ts): Shared types. The contract between server and dashboard.
+- [dashboard](https://github.com/NirDiamant/claude-watch/tree/main/dashboard): The Vite, React and Tailwind front end.
+- [bin/claude-watch.js](https://github.com/NirDiamant/claude-watch/blob/main/bin/claude-watch.js): Published binary shim.
+- [demo](https://github.com/NirDiamant/claude-watch/tree/main/demo): Sample session data for local development.
+
+## Related work by the same author
+
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): 41 notebooks on Retrieval-Augmented Generation.
+- [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): 59 notebooks implementing GenAI agents.
+- [agents-towards-production](https://github.com/NirDiamant/agents-towards-production): Taking agents from prototype to deployed product.
+- [Newsletter](https://newsletter.diamant-ai.com): Weekly deep dives on GenAI engineering.
+- [Community Discord](https://discord.gg/cA6Aa4uyDX): Questions, contributions and discussion.
+- [Agentic_Engineering](https://github.com/NirDiamant/Agentic_Engineering): Structuring a project so coding agents work well in it.
