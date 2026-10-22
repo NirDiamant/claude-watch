@@ -16,29 +16,15 @@ Visualize your project's logic, track changes, and search with AI.
 
 </div>
 
-<h2 align="center">🎓 From Claude Code sessions to production</h2>
+<h2 align="center">📖 Go deeper: the book</h2>
 
 <div align="center">
 
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dclaude-watch&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=book-card-agents-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HNXRSRH2&retarget=0&text=book-card-agents-image"><img src="images/ai-agents-made-simple-cover.jpg" alt="AI Agents Made Simple book cover" width="180"></a>
 
-**The course is live.** Every module is out, lecture and lab.
+**AI Agents Made Simple** - the decision guide to building agents that work: 28 chapters on what each pattern does, what breaks, what it costs, and when it is overkill. No code.
 
-### 🎁 Try a full module, free
-
-<table>
-<tr>
-<td align="center">🎬<br><b>7-minute<br>video lecture</b></td>
-<td align="center">🛠️<br><b>Hands-on<br>tutorial</b></td>
-<td align="center">🤖<br><b>AI assistant<br>inside Claude Code</b></td>
-</tr>
-</table>
-
-One `npm install` adds the module's AI assistant to your Claude Code, and it guides you through the tutorial as you build.
-
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dclaude-watch-direct&retarget=0&text=course-free-module-direct"><img src="images/free-module-button.svg" alt="Claim your free module" width="420"></a>
-
-### 👉 [**Get the full course**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=course-full-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dclaude-watch&retarget=0&text=course-full-cta)
+**[Get it on Amazon →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=book-card-agents-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HNXRSRH2&retarget=0&text=book-card-agents-cta)**
 
 </div>
 
@@ -131,3 +117,7 @@ PRs welcome! Ideas: timeline view, diff viewer, VS Code extension, export to PDF
 ## License
 
 MIT
+
+---
+
+📚 **More from the same author:** [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=book-footer-rag&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GWDH8JJL&retarget=0&text=book-footer-rag) · [Prompt Engineering: Master the Art of AI Interaction](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=book-footer-pe&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5&retarget=0&text=book-footer-pe) · [Agent Memory Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=claude-watch--readme&click=book-footer-am&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HCRMGHCM&retarget=0&text=book-footer-am)
