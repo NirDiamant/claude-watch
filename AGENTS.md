@@ -45,4 +45,4 @@ Guidance for AI coding agents working in this repository. Humans are welcome to 
 
 - Newsletter: https://newsletter.diamant-ai.com
 - Community: https://discord.gg/cA6Aa4uyDX
-- Course, Prompt to Production: https://diamant-ai.com/courses
+- Book, AI Agents Made Simple: https://www.amazon.com/dp/B0HNXRSRH2
